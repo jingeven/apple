@@ -5,4 +5,10 @@ one
 3
 ----
 ----
+<<<<<<< HEAD
 email；
+=======
+
+---
+house
+>>>>>>> feature/house
